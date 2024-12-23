@@ -1,0 +1,5 @@
+flask 
+telethon 
+langchain-google-genai 
+youtube-transcript-api 
+requests
